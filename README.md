@@ -163,7 +163,8 @@ You should see live temperature and humidity values.
 
 ## 👨‍💻 Author
 
-**Shivanshu**
+**Shivanshu Kumar**
+
 Electrical & Electronics Engineering Student
 
 If you found this project useful, feel free to ⭐ the repository.
