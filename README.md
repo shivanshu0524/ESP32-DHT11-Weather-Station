@@ -35,7 +35,6 @@ This project demonstrates **IoT fundamentals, sensor interfacing, ESP32 programm
 | ----------------------- | ----------- |
 | ESP32 Development Board | 1           |
 | DHT11 Sensor            | 1           |
-| Breadboard              | 1           |
 | Jumper Wires            | As Required |
 | USB Cable               | 1           |
 
